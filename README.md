@@ -8,3 +8,5 @@ Grove module(s)
 
 Connections
 - Connect D2 to TF Mini LiDAR module
+
+This example shows how to use the Grove module.
